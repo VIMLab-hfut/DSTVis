@@ -1,0 +1,301 @@
+user_id,image_id,attribute,score
+user1,,Self aesthetic accomplishment,5
+user1,,Level of understanding of visualization,4
+user1,,Use and understanding of visual view,4
+user1,image1,aesthetic,7
+user1,image1,readability,6
+user1,image2,aesthetic,7
+user1,image2,readability,6
+user1,image3,aesthetic,7
+user1,image3,readability,6
+user1,image4,aesthetic,7
+user1,image4,readability,7
+user1,image5,aesthetic,7
+user1,image5,readability,7
+user1,image6,aesthetic,7
+user1,image6,readability,7
+user2,,Self aesthetic accomplishment,5
+user2,,Level of understanding of visualization,5
+user2,,Use and understanding of visual view,5
+user2,image1,aesthetic,6
+user2,image1,readability,6
+user2,image2,aesthetic,7
+user2,image2,readability,4
+user2,image3,aesthetic,4
+user2,image3,readability,5
+user2,image4,aesthetic,4
+user2,image4,readability,4
+user2,image5,aesthetic,5
+user2,image5,readability,5
+user2,image6,aesthetic,6
+user2,image6,readability,6
+user3,,Self aesthetic accomplishment,4
+user3,,Level of understanding of visualization,6
+user3,,Use and understanding of visual view,3
+user3,image1,aesthetic,6
+user3,image1,readability,3
+user3,image2,aesthetic,6
+user3,image2,readability,2
+user3,image3,aesthetic,2
+user3,image3,readability,4
+user3,image4,aesthetic,4
+user3,image4,readability,3
+user3,image5,aesthetic,6
+user3,image5,readability,7
+user3,image6,aesthetic,6
+user3,image6,readability,6
+user4,,Self aesthetic accomplishment,7
+user4,,Level of understanding of visualization,7
+user4,,Use and understanding of visual view,5
+user4,image1,aesthetic,7
+user4,image1,readability,5
+user4,image2,aesthetic,7
+user4,image2,readability,7
+user4,image3,aesthetic,7
+user4,image3,readability,7
+user4,image4,aesthetic,4
+user4,image4,readability,7
+user4,image5,aesthetic,7
+user4,image5,readability,7
+user4,image6,aesthetic,5
+user4,image6,readability,7
+user5,,Self aesthetic accomplishment,7
+user5,,Level of understanding of visualization,5
+user5,,Use and understanding of visual view,1
+user5,image1,aesthetic,3
+user5,image1,readability,2
+user5,image2,aesthetic,5
+user5,image2,readability,1
+user5,image3,aesthetic,2
+user5,image3,readability,3
+user5,image4,aesthetic,3
+user5,image4,readability,3
+user5,image5,aesthetic,5
+user5,image5,readability,6
+user5,image6,aesthetic,6
+user5,image6,readability,6
+user6,,Self aesthetic accomplishment,7
+user6,,Level of understanding of visualization,6
+user6,,Use and understanding of visual view,4
+user6,image1,aesthetic,6
+user6,image1,readability,5
+user6,image2,aesthetic,7
+user6,image2,readability,4
+user6,image3,aesthetic,5
+user6,image3,readability,5
+user6,image4,aesthetic,7
+user6,image4,readability,6
+user6,image5,aesthetic,7
+user6,image5,readability,6
+user6,image6,aesthetic,7
+user6,image6,readability,7
+user7,,Self aesthetic accomplishment,4
+user7,,Level of understanding of visualization,2
+user7,,Use and understanding of visual view,1
+user7,image1,aesthetic,6
+user7,image1,readability,6
+user7,image2,aesthetic,5
+user7,image2,readability,5
+user7,image3,aesthetic,6
+user7,image3,readability,6
+user7,image4,aesthetic,5
+user7,image4,readability,6
+user7,image5,aesthetic,4
+user7,image5,readability,4
+user7,image6,aesthetic,6
+user7,image6,readability,6
+user8,,Self aesthetic accomplishment,5
+user8,,Level of understanding of visualization,5
+user8,,Use and understanding of visual view,5
+user8,image1,aesthetic,5
+user8,image1,readability,5
+user8,image2,aesthetic,3
+user8,image2,readability,1
+user8,image3,aesthetic,3
+user8,image3,readability,3
+user8,image4,aesthetic,6
+user8,image4,readability,6
+user8,image5,aesthetic,4
+user8,image5,readability,7
+user8,image6,aesthetic,4
+user8,image6,readability,4
+user9,,Self aesthetic accomplishment,5
+user9,,Level of understanding of visualization,6
+user9,,Use and understanding of visual view,4
+user9,image1,aesthetic,6
+user9,image1,readability,6
+user9,image2,aesthetic,6
+user9,image2,readability,2
+user9,image3,aesthetic,3
+user9,image3,readability,1
+user9,image4,aesthetic,5
+user9,image4,readability,7
+user9,image5,aesthetic,4
+user9,image5,readability,6
+user9,image6,aesthetic,4
+user9,image6,readability,5
+user10,,Self aesthetic accomplishment,5
+user10,,Level of understanding of visualization,5
+user10,,Use and understanding of visual view,5
+user10,image1,aesthetic,5
+user10,image1,readability,5
+user10,image2,aesthetic,3
+user10,image2,readability,1
+user10,image3,aesthetic,3
+user10,image3,readability,3
+user10,image4,aesthetic,6
+user10,image4,readability,6
+user10,image5,aesthetic,4
+user10,image5,readability,7
+user10,image6,aesthetic,4
+user10,image6,readability,4
+user11,,Self aesthetic accomplishment,3
+user11,,Level of understanding of visualization,1
+user11,,Use and understanding of visual view,1
+user11,image1,aesthetic,5
+user11,image1,readability,4
+user11,image2,aesthetic,5
+user11,image2,readability,5
+user11,image3,aesthetic,3
+user11,image3,readability,4
+user11,image4,aesthetic,6
+user11,image4,readability,6
+user11,image5,aesthetic,7
+user11,image5,readability,7
+user11,image6,aesthetic,5
+user11,image6,readability,6
+user12,,Self aesthetic accomplishment,5
+user12,,Level of understanding of visualization,3
+user12,,Use and understanding of visual view,3
+user12,image1,aesthetic,6
+user12,image1,readability,6
+user12,image2,aesthetic,6
+user12,image2,readability,3
+user12,image3,aesthetic,5
+user12,image3,readability,5
+user12,image4,aesthetic,4
+user12,image4,readability,4
+user12,image5,aesthetic,5
+user12,image5,readability,5
+user12,image6,aesthetic,5
+user12,image6,readability,5
+user13,,Self aesthetic accomplishment,3
+user13,,Level of understanding of visualization,1
+user13,,Use and understanding of visual view,1
+user13,image1,aesthetic,5
+user13,image1,readability,4
+user13,image2,aesthetic,5
+user13,image2,readability,5
+user13,image3,aesthetic,3
+user13,image3,readability,4
+user13,image4,aesthetic,6
+user13,image4,readability,6
+user13,image5,aesthetic,7
+user13,image5,readability,7
+user13,image6,aesthetic,5
+user13,image6,readability,6
+user14,,Self aesthetic accomplishment,4
+user14,,Level of understanding of visualization,3
+user14,,Use and understanding of visual view,3
+user14,image1,aesthetic,7
+user14,image1,readability,6
+user14,image2,aesthetic,7
+user14,image2,readability,7
+user14,image3,aesthetic,6
+user14,image3,readability,7
+user14,image4,aesthetic,6
+user14,image4,readability,6
+user14,image5,aesthetic,6
+user14,image5,readability,6
+user14,image6,aesthetic,6
+user14,image6,readability,6
+user15,,Self aesthetic accomplishment,5
+user15,,Level of understanding of visualization,5
+user15,,Use and understanding of visual view,4
+user15,image1,aesthetic,5
+user15,image1,readability,5
+user15,image2,aesthetic,5
+user15,image2,readability,4
+user15,image3,aesthetic,5
+user15,image3,readability,5
+user15,image4,aesthetic,5
+user15,image4,readability,4
+user15,image5,aesthetic,5
+user15,image5,readability,6
+user15,image6,aesthetic,5
+user15,image6,readability,5
+user16,,Self aesthetic accomplishment,5
+user16,,Level of understanding of visualization,5
+user16,,Use and understanding of visual view,6
+user16,image1,aesthetic,6
+user16,image1,readability,6
+user16,image2,aesthetic,6
+user16,image2,readability,3
+user16,image3,aesthetic,4
+user16,image3,readability,2
+user16,image4,aesthetic,4
+user16,image4,readability,5
+user16,image5,aesthetic,6
+user16,image5,readability,6
+user16,image6,aesthetic,5
+user16,image6,readability,5
+user17,,Self aesthetic accomplishment,5
+user17,,Level of understanding of visualization,5
+user17,,Use and understanding of visual view,4
+user17,image1,aesthetic,6
+user17,image1,readability,7
+user17,image2,aesthetic,7
+user17,image2,readability,4
+user17,image3,aesthetic,4
+user17,image3,readability,4
+user17,image4,aesthetic,6
+user17,image4,readability,6
+user17,image5,aesthetic,7
+user17,image5,readability,7
+user17,image6,aesthetic,7
+user17,image6,readability,6
+user18,,Self aesthetic accomplishment,4
+user18,,Level of understanding of visualization,3
+user18,,Use and understanding of visual view,2
+user18,image1,aesthetic,7
+user18,image1,readability,7
+user18,image2,aesthetic,7
+user18,image2,readability,6
+user18,image3,aesthetic,7
+user18,image3,readability,7
+user18,image4,aesthetic,6
+user18,image4,readability,7
+user18,image5,aesthetic,7
+user18,image5,readability,7
+user18,image6,aesthetic,7
+user18,image6,readability,7
+user19,,Self aesthetic accomplishment,5
+user19,,Level of understanding of visualization,6
+user19,,Use and understanding of visual view,6
+user19,image1,aesthetic,6
+user19,image1,readability,6
+user19,image2,aesthetic,7
+user19,image2,readability,5
+user19,image3,aesthetic,6
+user19,image3,readability,7
+user19,image4,aesthetic,6
+user19,image4,readability,6
+user19,image5,aesthetic,6
+user19,image5,readability,7
+user19,image6,aesthetic,6
+user19,image6,readability,7
+user20,,Self aesthetic accomplishment,4
+user20,,Level of understanding of visualization,5
+user20,,Use and understanding of visual view,4
+user20,image1,aesthetic,6
+user20,image1,readability,7
+user20,image2,aesthetic,7
+user20,image2,readability,5
+user20,image3,aesthetic,5
+user20,image3,readability,5
+user20,image4,aesthetic,6
+user20,image4,readability,5
+user20,image5,aesthetic,6
+user20,image5,readability,6
+user20,image6,aesthetic,5
+user20,image6,readability,6
